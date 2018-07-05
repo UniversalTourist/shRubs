@@ -3,7 +3,7 @@ library(tidyverse)
 library(ALA4R)
 library(vegan)
 library(RColorBrewer)
-
+library(gganimate)
 # Triodia, Brachychiton, Flindersia, Livistona, Callitris, Daviesia, Ficus, Hakea, Bottlebrush,
 #Grevillea. Need more?
 # Some look to be limited by rainfall (in wetter areas) but they are not in the north. Why not? What other factors might be limiting distribution?
